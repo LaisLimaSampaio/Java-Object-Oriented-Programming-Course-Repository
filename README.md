@@ -1,0 +1,2 @@
+# Java Object-Oriented Programming Course Repository
+ This repository contains all the assignments and projects developed for the Object-Oriented Programming (OOP) course as part of my Software Engineering degree. It showcases the application of core OOP principles such as encapsulation, inheritance, polymorphism, and abstraction, implemented using Java. The projects range from basic exercises to more complex applications, demonstrating my progression in mastering Java and OOP concepts.
